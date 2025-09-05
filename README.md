@@ -1,4 +1,4 @@
-Preview link-
+Preview link- https://adityabs-eng.github.io/Instagram-UI--Clone/
 
 # 📸 Instagram Clone UI
 
